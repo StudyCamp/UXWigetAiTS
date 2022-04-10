@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+.body {
+  margin:0;
+}
+
+.page-header {
+  
+  text-align: center;
+  font-family: "Neucha", cursive;
+  background-color: #282c34;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.chartButton {
+  width: 100%;
+  border-radius: 0px !important;
+  font-family: "Neucha";
+  color: #ffc107;
+}
+.row {
+  padding-right: 33.8%;
+}
+.chartCol p {
+  float: right;
+  font-family: "Neucha";
+}
+.btn-group{
+  width: 100%;
+}
+.chartSection {
+  text-align: center;
+}
+.commandSection {
+  margin-left: 25%;
+}
+.commandSectionTitle{
+  margin-left: 25%;
+  margin-top: 6%;
+}
