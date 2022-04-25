@@ -4,6 +4,8 @@
 
 Wiget to help user install the latest and hottest Ai app.
 
+https://wigit-design-ai-poc.netlify.app/
+
 #### Wiget Features and Improvement
 
 1. Improved button colours and visual with a cleaner look
@@ -19,3 +21,5 @@ Wiget to help user install the latest and hottest Ai app.
 - React-Bootstrap
 
 ### Developer: Leon Li
+
+#### Bonus Angular UI/UX wiget PoC https://app.netlify.com/sites/dreamy-montalcini-1d3696/overview
