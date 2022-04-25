@@ -10,9 +10,10 @@ https://wigit-design-ai-poc.netlify.app/
 
 1. Improved button colours and visual with a cleaner look
 2. The PoC has more interactive buttons
-3. Font differences and newer trend
+3. Font differences with newer trend
 4. Also includes button groups
 5. Header
+6. Experimented with TS integration
 
 #### Technologies
 
