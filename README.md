@@ -22,4 +22,4 @@ https://wigit-design-ai-poc.netlify.app/
 
 ### Developer: Leon Li
 
-#### Bonus Angular UI/UX wiget PoC https://app.netlify.com/sites/dreamy-montalcini-1d3696/overview
+#### Bonus Angular UI/UX wiget PoC https://dreamy-montalcini-1d3696.netlify.app/
